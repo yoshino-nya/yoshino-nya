@@ -1,5 +1,7 @@
 # Hi, Yoshino there 👋
 
-A ~~normal~~ student from **Hanjiang Normal University**, studying **Software Engineering** 🎓.
+A ~~normal~~ student from **Hanjiang Normal University**, studying **Software Engineering** 🎓, graduating in **Jul 2027**.
 
-Not much to show here yet… still learning! 😅
+It’s just basketball. At the end of the day, it’s just basketball.
+
+Let's go!
