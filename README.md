@@ -4,4 +4,6 @@ A ~~normal~~ student from **Hanjiang Normal University**, studying **Software En
 
 It’s just basketball. At the end of the day, it’s just basketball.
 
+![☝️🤓](https://image.wuyi.host/ben-simmons.jpg)
+
 Let's go!
